@@ -1,0 +1,3 @@
+import lxml.etree.ElementTree as etree
+tree =et.parse('filename.xml')
+root=tree.getroot()
