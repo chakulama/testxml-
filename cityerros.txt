@@ -1,0 +1,47 @@
+1)wrong data such as:
+	Boudhanath Stupa	Kathmandu, India
+	Hanuman Dhoka	Kathmandu, India	
+	Pashupatinath Temple	Kathmandu, India
+	Thamel	Kathmandu, India
+
+2) Inconsistant abbreviation   (which to use)
+	St 		St.		Saint
+	Mt		Mt.		Mont
+	Ft		Ft.		Font
+
+3) Same city different representation
+
+------WHAT THEY HAVE SENT------							--------WHAT WE HAVE IN TRIDION------------
+
+	Tripoli, Libya 						   					Tripoli, Libyan Arab Jamahiriya        
+	Kashgar, China											Kashgar, Xinjiang, China
+	Santo Domingo, Dominican Republic       				Santo Domingo, Dominican Rep
+	Port Of Spain, Trinidad and Tobago    					 Port Of Spain, Trinidad And Tobago
+	Ostrava, Czech Republic                                  Ostrava, Czech Rep.
+	Brazzaville,Congo                                        Brazzaville, Congo-Brazzv
+	Brampton, Canada                                         Brampton, Ontario, Canada
+	Abingdon,Virginia, United States                         Abingdon, Virginia, United States
+	Tripoli, Libya                                           Tripoli, Libyan Arab Jamahiriya
+	Prague, Czech Republic                                   Prague, Czech Rep.
+	Shimla, Himachal Pradesh, India                          Shimla, India
+	Zavidovo,Tver oblast, Russia                             Zavidovo, Russian Federation
+	Bathinda, Punjab, India                                  Bathinda, India
+	Williamsburg, Usa                                        Williamsburg, Virginia, United States
+	Srinagar, Jammu and Kashmir, India                       Srinagar, India
+	Ostrava,Czech Republic                                   Ostrava, Czech Rep.
+	Prague,Czech Republic                                    Prague, Czech Rep.
+	Chisinau, Republic Of Moldova                            Chisinau, Moldova
+	Porto Alegre, Brazil                                     Porto Alegre, Rs, Brazil
+	Liuzhou, China                                           Liuzhou, Guangxi, China
+	Leon,Guanajuato, Mexico                                  Leon, Mexico
+	Santo Domingo,Dominican Republic                         Santo Domingo, Dominican Rep
+	Kutch, Gujarat, India                                    Kutch, India
+	Concepcion, Chile                                        Concepcion, Hualpen, Chile
+	Kutch,Gujarat, India                                     Kutch, India
+	Zavidovo, Zavidovo                                       Zavidovo, Russian Federation
+	Brazzaville, Congo                                       Brazzaville, Congo-Brazzv
+	Coimbatore, Tamil Nadu, India                            Coimbatore, India
+	
+
+
+	

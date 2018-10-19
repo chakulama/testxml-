@@ -1,0 +1,161 @@
+Madison, Illinois, United States                         Madison, Alabama, United States
+Madison, Illinois, United States                         Madison, Wisconsin, United States
+Santo Domingo, Dominican Republic                        Santo Domingo, Dominican Rep
+Lubbock, Indiana, United States                          Lubbock, Texas, United States
+Port Of Spain, Trinidad and Tobago                       Port Of Spain, Trinidad And Tobago
+Valparaiso, Florida, United States                       Valparaiso, Indiana, United States
+Baton Rouge, Ohio, United States                         Baton Rouge, Louisiana, United States
+Columbus, Minnesota, United States                       Columbus, Ohio, United States
+Columbus, Minnesota, United States                       Columbus, Georgia, United States
+Miami, Iowa, United States                               Miami, Florida, United States
+Florence, Kentucky, United States                        Florence, South Carolina, United States
+Michigan City, Florida, United States                    Michigan City, Indiana, United States
+Madrid, Iowa, United States                              Madrid, Spain
+Marquette, Wisconsin, United States                      Marquette, Michigan, United States
+Somerset, New Jersey, United States                      Somerset, Kentucky, United States
+Sparta, Tennessee, United States                         Sparta, Wisconsin, United States
+Tripoli,Libya                                            Tripoli, Libyan Arab Jamahiriya
+Plymouth, Wisconsin, United States                       Plymouth, Minnesota, United States
+St Petersburg, Florida, United States                    St Petersburg, Russian Federation
+Concord, Massachusetts, United States                    Concord, North Carolina, United States
+Lincoln, Rhode Island, United States                     Lincoln, Nebraska, United States
+Pineville, South Carolina, United States                 Pineville, Louisiana, United States
+Rogers, Minnesota, United States                         Rogers, Arkansas, United States
+Northfield, Ohio, United States                          Northfield, Minnesota, United States
+Germantown, Maryland, United States                      Germantown, Wisconsin, United States
+Charleston, South Carolina, United States                Charleston, West Virginia, United States
+Charlotte, South Carolina, United States                 Charlotte, North Carolina, United States
+Niagara Falls, New York, United States                   Niagara Falls, Ontario, Canada
+Columbia, Pennsylvania, United States                    Columbia, Missouri, United States
+Columbia, Pennsylvania, United States                    Columbia, South Carolina, United States
+Bristol, Virginia, United States                         Bristol, United Kingdom
+Knoxville, Iowa, United States                           Knoxville, Tennessee, United States
+Plymouth, Michigan, United States                        Plymouth, Minnesota, United States
+
+Duluth, Georgia, United States                           Duluth, Minnesota, United States
+Buffalo, New York, United States                         Buffalo, Minnesota, United States
+Metairie, Iowa, United States                            Metairie, Louisiana, United States
+Elizabeth, Illinois, United States                       Elizabeth, New Jersey, United States
+Portage, Michigan, United States                         Portage, Indiana, United States
+Mansfield, Minnesota, United States                      Mansfield, Ohio, United States
+Ruston, Iowa, United States                              Ruston, Louisiana, United States
+
+Berlin, Ohio, United States                              Berlin, Germany
+
+Davenport, Maryland, United States                       Davenport, Iowa, United States
+
+Canton, Ohio, United States                              Canton, Georgia, United States
+Jackson, New Jersey, United States                       Jackson, Tennessee, United States
+
+Lima, Peru                                               Lima, Ohio, United States
+Albert Lea, Iowa, United States                          Albert Lea, Minnesota, United States
+Rockford, Tennessee, United States                       Rockford, Illinois, United States
+Franklin, Alabama, United States                         Franklin, Tennessee, United States
+Dundee, New York, United States                          Dundee, Michigan, United States
+
+Durham, North Carolina, United States                    Durham, United Kingdom
+Hamburg, New York, United States                         Hamburg, Germany
+Princeton, Minnesota, United States                      Princeton, West Virginia, United States
+Gainesville, Georgia, United States                      Gainesville, Florida, United States
+Williamsburg, Michigan, United States                    Williamsburg, Virginia, United States
+
+Normal, California, United States                        Normal, Illinois, United States
+Petersburg, Kentucky, United States                      Petersburg, Virginia, United States
+Shreveport, Iowa, United States                          Shreveport, Louisiana, United States
+Waterloo, South Dakota, United States                    Waterloo, Iowa, United States
+
+Aurora, Illinois, United States                          Aurora, Colorado, United States
+
+
+Lexington, Ohio, United States                           Lexington, Virginia, United States
+Lexington, Ohio, United States                           Lexington, Kentucky, United States
+Austin, Minnesota, United States                         Austin, Texas, United States
+Manchester, New Hampshire, United States                 Manchester, United Kingdom
+
+Macon, Ohio, United States                               Macon, Georgia, United States
+Maumee, North Carolina, United States                    Maumee, Ohio, United States
+Wauwatosa, Wisconsin, United States                      Wauwatosa, Winconsin, United States(modify)
+Newark, New Jersey, United States                        Newark, Delaware, United States
+Dixon, Illinois, United States                           Dixon, California, United States
+Bristol, Indiana, United States                          Bristol, United Kingdom
+New Orleans, Iowa, United States                         New Orleans, Louisiana, United States
+Chatsworth, Georgia, United States                       Chatsworth, California, United States
+Jackson, Mississippi, United States                      Jackson, Tennessee, United States
+Merrillville, Mississippi, United States                 Merrillville, Indiana, United States
+Slidell, Iowa, United States                             Slidell, Louisiana, United States
+
+Columbia, Maryland, United States                        Columbia, Missouri, United States
+Columbia, Maryland, United States                        Columbia, South Carolina, United States
+
+Mcdonough, Ohio, United States                           Mcdonough, Georgia, United States
+
+Dover, Tennessee, United States                          Dover, Ohio, United States
+Louisville, Texas, United States                         Louisville, Kentucky, United States
+Brookfield, Illinois, United States                      Brookfield, Wisconsin, United States
+Marion, North Carolina, United States                    Marion, Illinois, United States
+Marion, North Carolina, United States                    Marion, Ohio, United States
+Sterling, Illinois, United States                        Sterling, Virginia, United States
+Marquette, Ohio, United States                           Marquette, Michigan, United States
+Bloomington, Wisconsin, United States                    Bloomington, Minnesota, United States
+Bloomington, Wisconsin, United States                    Bloomington, Illinois, United States
+Pineville, Iowa, United States                           Pineville, Louisiana, United States
+Metairie, Arizona, United States                         Metairie, Louisiana, United States
+Baxter, Tennessee, United States                         Baxter, Minnesota, United States
+Salem, Virginia, United States                           Salem, India
+Salem, New Hampshire, United States                      Salem, India
+Washington, Maryland, United States                      Washington, Pennsylvania, United States
+Ashland, Iowa, United States                             Ashland, Virginia, United States
+Santiago, Mexico                                         Santiago, Chile
+Berlin, Maryland, United States                          Berlin, Germany
+Morton, Minnesota, United States                         Morton, Illinois, United States
+Hampton, Georgia, United States                          Hampton, Virginia, United States
+
+Alexandria, Virginia, United States                      Alexandria, Egypt
+Alexandria, Virginia, United States                      Alexandria, Minnesota, United States
+Vienna, Virginia, United States                          Vienna, Austria
+Dallas, Georgia, United States                           Dallas, Texas, United States
+
+New York, United States                                  New York, New York, United States
+Valparaiso, Chile                                        Valparaiso, Indiana, United States
+
+Wilmington, Delaware, United States                      Wilmington, North Carolina, United States
+Lawrenceville, Virginia, United States                   Lawrenceville, Georgia, United States
+Alexandria, Maryland, United States                      Alexandria, Egypt
+Alexandria, Maryland, United States                      Alexandria, Minnesota, United States
+
+
+Mesa, Indiana, United States                             Mesa, Arizona, United States
+Augusta, South Carolina, United States                   Augusta, Georgia, United States
+Bristol,Virginia, United States                          Bristol, United Kingdom
+Georgetown, Texas, United States                         Georgetown, Kentucky, United States
+Rapid City, Soth Dakota, United States                   Rapid City, South Dakota, United States
+Harlingen, Virginia, United States                       Harlingen, Texas, United States
+Houghton, New York, United States                        Houghton, Michigan, United States
+Marion, Virginia, United States                          Marion, Illinois, United States
+Marion, Virginia, United States                          Marion, Ohio, United States
+Montevideo, Wisconsin, United States                     Montevideo, Uruguay
+Smyrna, Tennessee, United States                         Smyrna, Georgia, United States
+
+Aurora, North Carolina, United States                    Aurora, Colorado, United States
+Lumberton, Texas, United States                          Lumberton, North Carolina, United States
+Jersey, United Kingdom                                   Jersey, Jersey
+Clarksville, Kentucky, United States                     Clarksville, Indiana, United States
+Clarksville, Kentucky, United States                     Clarksville, Tennessee, United States
+Boone, Iowa, United States                               Boone, North Carolina, United States
+Corpus Christi, Oregon, United States                    Corpus Christi, Texas, United States
+
+San Carlos, Costa Rica                                   San Carlos, California, United States
+Ashland, Pennsylvania, United States                     Ashland, Virginia, United States
+
+Sparta, Kentucky, United States                          Sparta, Wisconsin, United States
+
+Jersey, Arkansas, United States                          Jersey, Jersey
+Mason City, Michigan, United States                      Mason City, Iowa, United States
+
+Tinley Park, Iowa, United States                         Tinley Park, Illinois, United States
+
+Alexandria, Iowa, United States                          Alexandria, Egypt
+Alexandria, Iowa, United States                          Alexandria, Minnesota, United States
+Northwood, Minnesota, United States                      Northwood, Iowa, United States
+Aberdeen, Maryland, United States                        Aberdeen, United Kingdom
+Aberdeen, Maryland, United States                        Aberdeen, Freetown, Sierra Leone
